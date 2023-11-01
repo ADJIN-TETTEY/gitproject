@@ -1,0 +1,1 @@
+AWS Certified Solutions Architect - Associate showcases knowledge and skills in AWS technology, across a wide range of AWS services.
